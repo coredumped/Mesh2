@@ -1,0 +1,38 @@
+===== Comandos de Rotaci¢n ===============================================
+[Eje: X+]    Rota el gr fico alrededor del eje X en sentido contrario a
+             las manecillas del reloj.
+[Eje: X-]    Rota el gr fico alrededor del eje X a favor de las manecillas
+             del reloj.
+[Eje: Y+]    Rota el gr fico alrededor del eje Y en sentido contrario a
+             las manecillas del reloj.
+[Eje: Y-]    Rota el gr fico alrededor del eje Y a favor de las manecillas
+             del reloj.
+[Eje: Z+]    Rota el gr fico alrededor del eje Z en sentido contrario a
+             las manecillas del reloj.
+[Eje: Z-]    Rota el gr fico alrededor del eje Z a favor de las manecillas
+             del reloj.
+[Detener]    Detiene o reanuda el movimiento de rotaci¢n del gr fico.
+===== Comandos de Traslaci¢n =============================================
+[Eje: X+]    Traslada el gr fico en sentido positivo de las X
+[Eje: X-]    Traslada el gr fico en sentido negativo de las X
+[Eje: Y+]    Traslada el gr fico en sentido positivo de las Y
+[Eje: Y-]    Traslada el gr fico en sentido negativo de las Y
+[Eje: Z+]    Traslada el gr fico en sentido positivo de las Z
+[Eje: Z-]    Traslada el gr fico en sentido negativo de las Z
+===== Miscelaneos ========================================================
+[Funciones]             Permite seleccionar una gr fica para visualizar
+[Transparente]          Dibuja la gr fica si pintar los pol¡gonos
+[Ayuda]                 Muestra esta pantalla
+[Salir]                 Termina el programa
+[Gradiente de nivel]    Muestra el gr fico visto desde arriba interpretado
+                        como una degradaci¢n de colores
+===== Teclas =============================================================
+[F1]           Muestra esta pantalla
+[F2]           Aumenta la velocidad de rotaci¢n
+[F3]           Disminuye la velocidad de rotaci¢n
+[ESC]          Permite salir de cualquier pantalla e incluso del programa
+[FLECHAS]      Mueve el gr fico hacia adelante, atr s o a los lados
+[INICIO/FIN]   Mueve al gr fico arriba o hacia abajo respectivamente
+[ENTER]        Detiene o reanuda el movimiento de rotaci¢n del gr fico.
+[+ -]          Permite alterar el brillo en las imagenes de los gradientes
+               de nivel.

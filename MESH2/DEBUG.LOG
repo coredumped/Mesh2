@@ -1,0 +1,48 @@
+Formateando procedimientos...
+ formateando: procedure EnableBlink(color : integer);
+  formateando los parametros...
+   Traduciendo tipos de variables
+   buscando los nombres de las variables
+    encontr¢: color
+ resultado: void EnableBlink(int color)
+ formateando: procedure DisableBlink;
+ resultado: void DisableBlink(void)
+ formateando: procedure center(col, row : integer; txt : array of char);
+  formateando los parametros...
+  formateando los parametros...
+ resultado: void center(col, row : integer, txt : array of char) formateando: procedure HideCursor;
+ resultado: void HideCursor(void)
+Formato de procedimientos completado
+
+Formateando procedimientos...
+ formateando: procedure EnableBlink(color : integer);
+  formateando los parametros...
+   Traduciendo tipos de variables
+   buscando los nombres de las variables
+    encontr¢: color
+ resultado: void EnableBlink(int color)
+ formateando: procedure DisableBlink;
+ resultado: void DisableBlink(void)
+ formateando: procedure center(col, row : integer; txt : array of char);
+  formateando los parametros...
+  formateando los parametros...
+ resultado: void center(col, row : integer, txt : array of char) formateando: procedure HideCursor;
+ resultado: void HideCursor(void)
+Formato de procedimientos completado
+
+Formateando procedimientos...
+ formateando: procedure EnableBlink(color : integer);
+  formateando los parametros...
+   Traduciendo tipos de variables
+   buscando los nombres de las variables
+    encontr¢: color
+ resultado: void EnableBlink(int color)
+ formateando: procedure DisableBlink;
+ resultado: void DisableBlink(void)
+ formateando: procedure center(col, row : integer; txt : array of char);
+  formateando los parametros...
+  formateando los parametros...
+ resultado: void center(col, row : integer, txt : array of char) formateando: procedure HideCursor;
+ resultado: void HideCursor(void)
+Formato de procedimientos completado
+
